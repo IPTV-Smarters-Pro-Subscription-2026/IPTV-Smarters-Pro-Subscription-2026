@@ -86,8 +86,8 @@ Join premium IPTV services now and enjoy a world of channels at your fingertips.
 | :--- | :--- | :--- | :--- |
 | Multi-screen | ✅ 4 screens | ✅ (Premium) | ❌ |
 | Xtream Codes API | ✅ | ✅ | ✅ |
-| Free Version | ✅ (with ads) | ✅ (limited) | ✅ (lite) |
-| EPG Support | ✅ | ✅ | ✅ |
+| Free Version | ✅  | ✅ (limited) | ✅ (lite) |
+| EPG Support | ✅   | ✅ | ✅ |
 | Recording | ✅ | ✅ (Premium) | ❌ |
 | Native UI elegance | Very good | Excellent | Basic |
 
