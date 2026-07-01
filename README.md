@@ -116,7 +116,7 @@ Explore top IPTV providers now and unlock endless entertainment possibilities to
 ## Frequently Asked Questions (FAQ)
 
 **Q: Is IPTV Smarters Pro free?**
-A: The basic version is free with ads. A premium ad-free upgrade is available but not required for full functionality.
+A: The basic version is free. A premium upgrade is available but not required for full functionality.
 
 **Q: Can I use IPTV Smarters Pro without a subscription?**
 A: Yes, the player is free. You still need an IPTV service subscription to load content.
@@ -125,7 +125,7 @@ A: Yes, the player is free. You still need an IPTV service subscription to load 
 A: The app is legal. Legality of streams depends on the provider you choose. Only use properly licensed services.
 
 **Q: Does Smarters Pro work on LG or Samsung Smart TVs?**
-A: There are no official apps for webOS or Tizen. You can use a Firestick or Android TV box connected to your TV, or try the web player version.
+A: There are official apps for webOS or Tizen. You can also use a Firestick or Android TV box connected to your TV, or try the web player version.
 
 **Q: Why is my EPG not loading?**
 A: Ensure your provider supports EPG and the correct EPG URL is entered. You can also manually assign an EPG source in the app settings.
