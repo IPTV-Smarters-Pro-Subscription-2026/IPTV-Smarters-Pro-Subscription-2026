@@ -98,10 +98,10 @@ Smarters Pro offers the best balance of features without a paywall for the core 
 *Disclaimer: These services are independently operated. We do not host, verify licensing, or condone piracy. Always perform your own due diligence and use a VPN.*
 
 1. **[Xtreme HD IPTV](https://tinyurl.com/yncymdmh)** – Over 20,000 live channels, stable streams, and full EPG. Works flawlessly with Smarters Pro via Xtream Codes.
-2. **Necro IPTV** – Excellent sports coverage and VOD library. Very responsive customer support.
-3. **Kemo IPTV** – Budget-friendly plans, 4K/UHD streams, and regular updates.
-4. **IPTV Gear** – Reliable US/UK/CA channels with catch-up and multi-connection options.
-5. **Bestbuy IPTV** – Wide international selection, anti-freeze technology, and 24/7 support.
+2. **[Necro IPTV](https://tinyurl.com/yncymdmh)** – Excellent sports coverage and VOD library. Very responsive customer support.
+3. **[Kemo IPTV](https://tinyurl.com/yncymdmh)** – Budget-friendly plans, 4K/UHD streams, and regular updates.
+4. **[IPTV Gear](https://tinyurl.com/yncymdmh)** – Reliable US/UK/CA channels with catch-up and multi-connection options.
+5. **[Bestbuy IPTV](https://tinyurl.com/yncymdmh)** – Wide international selection, anti-freeze technology, and 24/7 support.
 
 All of these provide an M3U or Xtream Codes login that you enter directly into Smarters Pro.
 
